@@ -6,9 +6,36 @@ body {
     background-size: cover;
 }
 
+#center{
+    width: 800px;
+    margin: 100px auto;
+}
+h1{
+    color:white;
+    width: 400px;
+    margin: 0px auto;
+    text-align: center;
+    font-size: 80px;
+}
+h2{
+    color:white;
+    width: 400px;
+    margin: 100px auto 20px auto;
+    text-align: center;
+}
+#text{
+    width:540px;
+    margin: 0px auto;
+}
+input{
+    padding: 20px;
+    width: 250px;
+}
 button {
     text-align: center;
-    margin: 10% 0 0 40%;
+    display: block;
+    width: 200px;
+    margin: 10px auto;
     border-radius: 3em;
     padding: 2%;
     letter-spacing: 1em;
